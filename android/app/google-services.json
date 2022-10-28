@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "953699123083",
+    "project_id": "cloudtiffin",
+    "storage_bucket": "cloudtiffin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953699123083:android:1d3dc0aec921c23c46398e",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953699123083-9ehg6afc5k6lpsfstmh5c4mtessr18bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS0L5G3yktLvsmK5CHD95g-OmpB9T-4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953699123083-9ehg6afc5k6lpsfstmh5c4mtessr18bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953699123083:android:ca10f920859a538846398e",
+        "android_client_info": {
+          "package_name": "com.cloudtiffin.cloud_tiffin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953699123083-9ehg6afc5k6lpsfstmh5c4mtessr18bq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFS0L5G3yktLvsmK5CHD95g-OmpB9T-4Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953699123083-9ehg6afc5k6lpsfstmh5c4mtessr18bq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
